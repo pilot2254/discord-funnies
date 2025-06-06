@@ -1,5 +1,7 @@
 # Troll people and your friends with funny notes in your messages
 
+### THIS ONE SHOULD NOT BE USED FOR IMPERSONATING, SCAMMING, ETC. IM NOT RESPONSIBLE FOR ANY DAMAGES CAUSED :)
+
 > [!IMPORTANT]
 > Discord uses Markdown. Make sure to put text in a quote (`>`) and as a subscript (`-#`) before the text. Example:
 >```
