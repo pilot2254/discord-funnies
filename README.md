@@ -14,7 +14,7 @@
 <br>
 
 > [!CAUTION]
-> Make sure you delete the embeds for links (by clicking on the 'X' icon). Alternatively, you can remove the links from the text completely if you don't want to delete the embeds every time you send a message.
+> Make sure you delete the embeds for links (by clicking on the 'X' icon). Alternatively, you can remove the links from the text completely if you don't want to delete the embeds every time you send a message, but I dont recommend that - it will look unrealistic.
 > ![image](https://github.com/user-attachments/assets/5f08b1c4-eb7a-41a1-83cf-7191a8ddc63c)
 
 <br><br><hr><br><br>
