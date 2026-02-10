@@ -70,3 +70,9 @@
 > -# This user is under surveillance by the INTERPOL (International Criminal Police Organization) and by the United States Federal Bureau of Investigation's Cyber Watch unit.
 > -# Do not contact this user, they are the subject of a criminal case under 18 U.S.C. § 2332b effective June 10, 2024. [Learn more](https://support.discord.com/hc/en-us)
 ```
+<br><br>
+## Age verification
+```
+```🔒 Message Hidden```
+-# Discord now requires ID verification in order to see certain messages.
+```
